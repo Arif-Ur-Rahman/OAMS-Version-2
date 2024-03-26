@@ -1,0 +1,67 @@
+$sidebar-bg-color: #c6d3f3 !important;
+$sidebar-color: #1b1b1b !default;
+
+@import '~react-pro-sidebar/dist/scss/styles.scss';
+
+
+.dropdown_btn {
+    background: #1D1D1D;
+    border: 1px solid #1D1D1D;
+    color: #fff;
+
+}
+.newAdminBtn {
+    background: #1D1D1D;
+    border: 1px solid #1D1D1D;
+    color: #fff;
+    border-radius: 10px;
+    // width: 80%;
+    text-align: center;
+}
+
+.dropdown-menu {
+    left: 20%;
+}
+
+.pro-sidebar.collapsed {
+    width: 96px;
+    min-width: 60%;
+}
+
+.pro-sidebar .pro-menu {
+    padding-top: 0;
+}
+
+.pro-sidebar .pro-menu .pro-menu-item {
+    font-size: 15px;
+    height: 70px;
+}
+
+.pro-sidebar .pro-menu .pro-menu-item > .pro-inner-item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 2px 5px 2px 5px;
+    cursor: pointer;
+}
+
+.sideMenuIcon {
+    text-align: center;
+}
+
+
+.sideMenuText {
+    display: table;
+    margin:0 auto;
+    word-wrap: break-word;
+    text-align: center;
+    font-size: 12px;
+}
+
+.iconMargin {
+    margin-left: 18px;
+}
+
+.custom-nav nav-item {
+    height: 75px;
+}

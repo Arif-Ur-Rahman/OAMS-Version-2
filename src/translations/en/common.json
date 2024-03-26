@@ -1,0 +1,109 @@
+{
+    "MyAssets": {
+        "1": "Asset Id",
+        "2": "Asset Name",
+        "3": "Asset Details",
+        "4": "Usage Start",
+        "5": "Used Quantity",
+        "6": "Status",
+        "7": "Comments",
+        "8": "Actions"
+    },
+    "Users": {
+        "1": "EmployeeId",
+        "2": "EmployeeName",
+        "3": "EmployeeEmail",
+        "4": "EmployeeFullName",
+        "5": "EmployeeBatchId",
+        "6": "EmployeesAdmin",
+        "7": "EmployeeNumber",
+        "8": "EmployeeAddress"
+    },
+    "AvailableAssets": {
+        "1": "Asset Id",
+        "2": "Category Id",
+        "3": "Category Name",
+        "4": "Asset Name",
+        "5": "Asset Details",
+        "6": "Actions"
+    },
+    "AdminPanel": {
+        "1": "CategoryName",
+        "2": "History Date",
+        "3": "Asset Quantity",
+        "4": "Asset Used",
+        "5": "Asset Expired"
+    },
+    "AllAssets":{
+        "1": "Category ID",
+        "2": "Category Name",
+        "3": "Asset Quantity",
+        "4": "Asset Used",
+        "5": "Asset Expired",
+        "6": "Warning quantity",
+        "7": "Actions"
+    },
+    "AssetDetails":{
+        "1": "Status",
+        "2": "Asset ID",
+        "3": "Category ID",
+        "4": "Asset Name",
+        "5": "Employee ID",
+        "6": "Employee name",
+        "7": "Asset Details",
+        "8": "Serial Number",
+        "9": "Ram",
+        "10": "CPU",
+        "11": "HDD",
+        "12": "SSD",
+        "13": "Usage Start",
+        "14": "Usage End",
+        "15": "Is Available",
+        "16": "Used quantity",
+        "17": "Comments",
+        "18": "Action"
+    },
+    "RequestedAssets":{
+        "1": "Asset ID",
+        "2": "Category ID",
+        "3": "Asset Name",
+        "4": "Employee ID",
+        "5": "Asset Details",
+        "6": "Request Type",
+        "7": "Actions"
+    },
+    "Activities":{
+        "1": "Activity Id",
+        "2": "Asset ID",
+        "3": "Activity Time",
+        "4": "Activity Type",
+        "5": "Activity Name",
+        "6": "Employee ID",
+        "7": "EmployeeName"
+    },
+    "CategoryDetailsTable":{
+        "1": "Asset ID",
+        "2": "Asset Name",
+        "3": "Employee ID",
+        "4": "Asset Details",
+        "5": "RAM",
+        "6": "CPU",
+        "7": "HDD",
+        "8": "SSD",
+        "9": "Status",
+        "10": "Comments"
+    },
+    "SidebarMenu": {
+        "1": "Home",
+        "2": "Users",
+        "3": "Available",
+        "4": "Admin",
+        "5": "Assets",
+        "6": "Inventory",
+        "7": "Requests",
+        "8": "Activities"
+    },
+    "ActionTitle": {
+        "1": "Actions"
+    }
+}
